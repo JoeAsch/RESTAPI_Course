@@ -1,0 +1,10 @@
+py__cache__/
+test.py
+create_tables.py
+Lib/
+Include/
+pip-selfcheck.json
+pyvenv.cfg
+*.pyc
+Scripts/
+data.db
